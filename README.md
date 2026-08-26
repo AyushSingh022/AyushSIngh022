@@ -462,51 +462,84 @@ GitHub achievements and milestones are available directly on my profile.
 
 ---
 
+---
+
 # Current Focus
 
-```yaml
-Learning:
-  - Advanced Java
-  - Spring Boot
-  - Spring MVC
-  - Spring Data JPA
-  - RESTful API Development
-  - Data Structures & Algorithms
-  - Database Design
-  - System Design Fundamentals
+<div align="center">
 
-Building:
-  - Java Backend Applications
-  - RESTful APIs
-  - Database-Driven Applications
-  - Full Stack Applications
+### 🚀 What I'm Working On
 
-Strengthening:
-  - Object-Oriented Programming
-  - DBMS
-  - Operating Systems
-  - Computer Networks
-  - Problem Solving
-  - Backend Architecture
+<a href="#learning">
+<img src="https://img.shields.io/badge/📚%20LEARNING-6366F1?style=for-the-badge">
+</a>
 
-Technologies:
-  - Java
-  - Go
-  - C++
-  - C
-  - Python
-  - Spring Boot
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - React
-  - Node.js
-  - Docker
-  - Linux
+<a href="#building">
+<img src="https://img.shields.io/badge/🛠️%20BUILDING-7C3AED?style=for-the-badge">
+</a>
 
-Open To:
-  - Java Backend Opportunities
-  - Spring Boot Opportunities
-  - Software Engineering Roles
-  - Backend Development
-  - Technical Collaboration
+<a href="#exploring">
+<img src="https://img.shields.io/badge/🔍%20EXPLORING-4F46E5?style=for-the-badge">
+</a>
+
+<a href="#open-to">
+<img src="https://img.shields.io/badge/🎯%20OPEN%20TO-312E81?style=for-the-badge">
+</a>
+
+</div>
+
+<br>
+
+<details>
+<summary>
+<b>📚 Learning</b> — What I'm studying right now
+</summary>
+
+<br>
+
+| Area | Focus |
+|:---|:---|
+| ☕ **Java** | Advanced Java, Collections, Streams & OOP |
+| 🌱 **Spring Boot** | REST APIs, Spring MVC & Spring Data JPA |
+| 🗄️ **Databases** | MySQL, PostgreSQL & MongoDB |
+| 🧠 **DSA** | Problem solving, algorithms & optimization |
+| 🏗️ **System Design** | Backend architecture & scalable systems |
+| 🔐 **Security** | Authentication, authorization & API security |
+
+### Current Learning Stack
+
+<img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/DSA-Active-6366F1?style=flat-square">
+<img src="https://img.shields.io/badge/System%20Design-Exploring-7C3AED?style=flat-square">
+
+</details>
+
+<br>
+
+<details>
+<summary>
+<b>🛠️ Building</b> — What I'm developing
+</summary>
+
+<br>
+
+### Backend Applications
+
+```text
+Java
+  │
+  ├── Spring Boot
+  │      ├── REST APIs
+  │      ├── Business Logic
+  │      └── Exception Handling
+  │
+  ├── Database Layer
+  │      ├── MySQL
+  │      ├── PostgreSQL
+  │      └── MongoDB
+  │
+  └── Engineering
+         ├── Git
+         ├── Docker
+         └── Testing
