@@ -1,17 +1,17 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=AYUSH%20SINGH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Software%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=230&section=header&text=AYUSH%20SINGH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Software%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+RESTful+APIs+%7C+Spring+Data+JPA;Object-Oriented+Programming+%7C+DSA;MySQL+%7C+PostgreSQL+%7C+MongoDB;Building+Secure+%26+Maintainable+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+RESTful+APIs+%7C+JPA;Object-Oriented+Programming+%7C+DSA;MySQL+%7C+PostgreSQL+%7C+MongoDB;Building+Secure+%26+Maintainable+Applications" alt="Typing SVG"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/MCA-9.18%2F10-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCA-8.88%2F10-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/ABES%20Engineering%20College-2025--2027-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ghaziabad%2C%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Backend-Developer-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghaziabad-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
@@ -25,11 +25,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AyushSingh022&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AyushSingh022&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
 
-<img src="https://img.shields.io/github/followers/AyushSingh022?style=for-the-badge&color=7c3aed&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/AyushSingh022?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
 
-<img src="https://img.shields.io/github/stars/AyushSingh022?style=for-the-badge&color=4c1d95&label=STARS"/>
+<img src="https://img.shields.io/github/stars/AyushSingh022?style=for-the-badge&color=4C1D95&label=STARS"/>
 
 </div>
 
@@ -37,18 +37,18 @@
 
 # About Me
 
-I am a **Master of Computer Applications student and Java Backend Developer** with a strong foundation in **Java, Spring Boot, RESTful API development, database design, and Object-Oriented Programming**.
+I am a **Master of Computer Applications student and Java Backend Developer** with a strong foundation in **Java, Spring Boot, RESTful APIs, Spring Data JPA, database development and Object-Oriented Programming**.
 
-I focus on building **secure, scalable, maintainable backend applications** and applying **Data Structures & Algorithms** to solve real-world problems.
+I enjoy designing and developing **reliable, maintainable and database-driven software applications**, while continuously strengthening my problem-solving and computer science fundamentals.
 
-My technical focus includes:
+My primary engineering interests include:
 
-- **Backend Development** — Java, Spring Boot, Spring MVC, Spring Data JPA and RESTful APIs
-- **Database Development** — MySQL, PostgreSQL and MongoDB
-- **Software Engineering** — OOP, modular architecture, exception handling and maintainable code
-- **Problem Solving** — Data Structures & Algorithms and competitive programming
-- **Programming Languages** — Java, Go, C++ and C
-- **Developer Tools** — Git, GitHub, Docker, Linux, VS Code and Postman
+- **Backend Development** — Java, Spring Boot, Spring MVC, Spring Data JPA
+- **API Development** — RESTful APIs and backend service development
+- **Database Engineering** — MySQL, PostgreSQL and MongoDB
+- **Programming** — Java, Go, C++ and C
+- **Computer Science** — DSA, OOP, DBMS, Operating Systems and Computer Networks
+- **Development Tools** — Git, GitHub, Docker, Linux, VS Code and Postman
 
 ### Open To
 
@@ -58,28 +58,28 @@ My technical focus includes:
 
 # Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,go,cpp,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,go,cpp,c&theme=dark" alt="Programming Languages"/>
 </p>
 
-### Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven,gradle&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,gradle&theme=dark" alt="Backend Technologies"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases"/>
 </p>
 
-### Developer Tools
+### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
 </p>
 
 ---
@@ -88,13 +88,31 @@ My technical focus includes:
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
+| Domain | Focus |
+|:---|:---|
 | **Data Structures & Algorithms** | Problem solving and algorithmic thinking |
-| **Object-Oriented Programming** | Java OOP and object-oriented design |
-| **DBMS** | Relational databases and database design |
-| **Operating Systems** | Core operating system concepts |
+| **Object-Oriented Programming** | Java and object-oriented design |
+| **Database Management Systems** | Relational databases and database concepts |
+| **Operating Systems** | Core OS concepts |
 | **Computer Networks** | Fundamental networking concepts |
+
+</div>
+
+---
+
+# AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Artificial Intelligence | — | Not listed as a core skill on my resume |
+| Machine Learning | — | Not listed as a core skill on my resume |
+| Generative AI | — | Not listed as a core skill on my resume |
+| Backend Engineering | Strong | Java, Spring Boot, REST APIs and Spring Data JPA |
+| Database Engineering | Strong | MySQL, PostgreSQL and MongoDB |
+| Problem Solving | Strong | 200+ programming problems solved |
+| Software Engineering | Strong | OOP, DSA, DBMS, OS and Computer Networks |
 
 </div>
 
@@ -109,31 +127,33 @@ My technical focus includes:
 
 ### UPI Offline Payment System
 
-A secure offline payment system developed using Java and Spring Boot to support user registration, balance management and digital payment processing without continuous internet connectivity.
+A secure payment-oriented backend application developed using Java and Spring Boot with support for user registration, balance management and payment processing in offline-oriented scenarios.
 
-| Dimension | Engineering Details |
-|---|---|
+| Dimension | Details |
+|:---|:---|
 | **Stack** | Java · Spring Boot · MySQL · REST APIs · Spring Data JPA |
 | **Architecture** | Layered Backend Architecture |
-| **Performance** | Optimized MySQL database operations |
+| **Database** | MySQL |
+| **API Layer** | RESTful APIs |
 | **Security** | Credential Encryption · Input Validation |
-| **Reliability** | Robust Exception Handling |
-| **Impact** | Offline-oriented digital payment processing |
+| **Reliability** | Exception Handling |
 
 ### Engineering Highlights
 
-- Developed RESTful APIs for offline payment initiation
-- Implemented transaction verification and payment confirmation
-- Built user registration and balance management functionality
-- Designed a layered backend architecture
-- Integrated Spring Data JPA for database operations
-- Optimized MySQL database performance
+- Developed RESTful APIs for payment-related operations
+- Implemented user registration and balance management
+- Implemented payment initiation and transaction verification
+- Developed payment confirmation workflows
+- Integrated Spring Data JPA
+- Designed MySQL database operations
 - Implemented credential encryption
-- Added input validation and exception handling
+- Added input validation
+- Implemented robust exception handling
+- Followed layered backend architecture
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>02 · Airline Desktop Application</b></summary>
@@ -142,29 +162,29 @@ A secure offline payment system developed using Java and Spring Boot to support 
 
 ### Airline Desktop Application
 
-A Java-based airline reservation system developed to manage flight scheduling, passenger registration, ticket booking and reservation records through a desktop interface.
+A Java-based desktop application designed for airline reservation management, including flight scheduling, passenger registration, ticket booking and reservation management.
 
-| Dimension | Engineering Details |
-|---|---|
+| Dimension | Details |
+|:---|:---|
 | **Stack** | Java · Java Swing · JDBC · MySQL |
 | **Architecture** | Modular Desktop Application |
-| **Database** | Relational MySQL Database |
-| **Performance** | Optimized SQL Queries |
-| **Security** | Authentication · Input Validation |
-| **Impact** | Integrated airline reservation workflow |
+| **Database** | MySQL |
+| **Connectivity** | JDBC |
+| **Core Operations** | CRUD Operations |
+| **Reliability** | Input Validation · Exception Handling |
 
 ### Engineering Highlights
 
 - Developed flight scheduling functionality
 - Implemented passenger registration
-- Built ticket booking functionality
-- Managed reservation records
+- Developed ticket booking workflows
+- Implemented reservation management
 - Integrated MySQL using JDBC
 - Implemented CRUD operations
-- Optimized SQL queries
 - Applied Object-Oriented Programming principles
-- Implemented input validation and exception handling
-- Followed modular architecture for maintainability and reusability
+- Added input validation
+- Implemented exception handling
+- Followed modular application architecture
 
 </details>
 
@@ -172,25 +192,24 @@ A Java-based airline reservation system developed to manage flight scheduling, p
 
 # Experience
 
-### Java Intern — IEEE TMU Student Branch
+## Java Intern — IEEE TMU Student Branch
 
-**Summer Internship Training**  
-`Jun 2024 — Jul 2024`
+**Jun 2024 — Jul 2024**
 
-Strengthened core Java programming skills through hands-on development using **OOP, JDBC, Multithreading and Swing**. :contentReference[oaicite:1]{index=1}
+Strengthened Java programming skills through hands-on development involving **Object-Oriented Programming, JDBC, Multithreading and Java Swing**.
 
-### Scope of Work
+### Scope Of Work
 
 - Developed desktop applications using Java Swing
 - Integrated MySQL databases using JDBC
-- Applied Object-Oriented Design principles
-- Worked with concurrent programming concepts
-- Developed modular and maintainable Java applications
-- Debugged applications with mentors and peers
-- Resolved coding issues
-- Followed Java coding best practices
+- Applied Object-Oriented Programming principles
+- Worked with multithreading concepts
+- Developed modular Java applications
+- Debugged application issues
+- Collaborated with mentors and peers
+- Followed Java development best practices
 
-**Skills**
+### Skills
 
 `Java` `OOP` `JDBC` `MySQL` `Swing` `Multithreading`
 
@@ -201,12 +220,12 @@ Strengthened core Java programming skills through hands-on development using **O
 <div align="center">
 
 | Recognition | Details |
-|---|---|
+|:---|:---|
 | **ET India Hackathon 2026** | Reached the **2nd Round** among **200+ participating teams** |
 | **Competitive Programming** | Solved **200+ programming problems** across LeetCode and HackerRank |
-| **Academic Excellence** | MCA CGPA — **9.18 / 10** |
-| **Academic Excellence** | BCA CGPA — **8.88 / 10** |
 | **Coding Club Mentor** | Mentored **50+ junior students** in programming fundamentals and problem solving |
+| **MCA Academic Performance** | **9.18 / 10 CGPA** |
+| **BCA Academic Performance** | **8.88 / 10 CGPA** |
 
 </div>
 
@@ -216,7 +235,7 @@ Strengthened core Java programming skills through hands-on development using **O
 
 ### Acmegrade
 
-<img src="https://img.shields.io/badge/Acmegrade-Android%20Development%20Certification-7C3AED?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Acmegrade-Android%20Development-7C3AED?style=for-the-badge&logo=android&logoColor=white"/>
 
 ### Coursera
 
@@ -233,7 +252,7 @@ Strengthened core Java programming skills through hands-on development using **O
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-200%2B%20Problems-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-200%2B%20Problems-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
 </a>
 
 </div>
@@ -244,9 +263,9 @@ Strengthened core Java programming skills through hands-on development using **O
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh022&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=8B5CF6&icon_color=6366F1&text_color=C7D2FE&bg_color=0D1117" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSingh022&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=94A3B8" height="180"/>
+<a href="https://github.com/AyushSingh022">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushSingh022&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight" alt="Ayush Singh GitHub Stats"/>
+</a>
 
 </div>
 
@@ -254,7 +273,9 @@ Strengthened core Java programming skills through hands-on development using **O
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh022&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=C7D2FE&bg_color=0D1117" height="180"/>
+<a href="https://github.com/AyushSingh022">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh022&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -264,7 +285,7 @@ Strengthened core Java programming skills through hands-on development using **O
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushSingh022&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AyushSingh022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -274,7 +295,7 @@ Strengthened core Java programming skills through hands-on development using **O
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh022&bg_color=0D1117&color=C7D2FE&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh022&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%"/>
 
 </div>
 
@@ -303,10 +324,10 @@ Learning:
   - Database Design
 
 Building:
-  - Secure Java backend applications
+  - Java backend applications
   - RESTful APIs
   - Database-driven applications
-  - Scalable software solutions
+  - Maintainable software solutions
 
 Strengthening:
   - Object-Oriented Programming
@@ -320,6 +341,7 @@ Technologies:
   - Go
   - C++
   - C
+  - Spring Boot
   - MySQL
   - PostgreSQL
   - MongoDB
